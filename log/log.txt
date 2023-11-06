@@ -1,0 +1,650 @@
+Level,Date and Time,Source,Event ID,Task Category
+Information,31/10/2021 08.50.32,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 65 to 67.
+
+Reason: 3"
+Information,31/10/2021 08.50.32,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+
+Reason: Input Mouse."
+Information,31/10/2021 08.50.01,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+
+Reason: Idle Timeout."
+Information,31/10/2021 08.50.01,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 64 to 65.
+
+Reason: 3"
+Information,31/10/2021 08.44.05,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.353.116.0)
+Information,31/10/2021 08.43.52,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.353.116.0)
+Information,31/10/2021 08.43.52,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Information,31/10/2021 08.43.50,googledrivefs3525,1,None,Wake from sleep detected.
+Information,31/10/2021 08.43.49,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2021‎-‎10‎-‎31T01:43:49.967071000Z from ‎2021‎-‎10‎-‎31T01:43:49.966895100Z.
+
+Change Reason: An application or system component changed the time.
+Process: '\Device\HarddiskVolume3\Windows\System32\svchost.exe' (PID 15740).
+
+RTC time: ‎2021‎-‎10‎-‎31T08:43:49.967071000Z
+Current time zone bias: -420
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Information,31/10/2021 08.43.49,Microsoft-Windows-Kernel-General,24,(11),The time zone information was refreshed with exit reason 0. Current time zone bias is -420.
+Information,31/10/2021 08.43.49,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2021‎-‎10‎-‎31T01:43:49.966053200Z from ‎2021‎-‎10‎-‎31T01:43:49.965916700Z.
+
+Change Reason: An application or system component changed the time.
+Process: '\Device\HarddiskVolume3\Windows\System32\svchost.exe' (PID 15740).
+
+RTC time: ‎2021‎-‎10‎-‎31T08:43:49.966053200Z
+Current time zone bias: -420
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Information,31/10/2021 08.43.49,Microsoft-Windows-Kernel-General,24,(11),The time zone information was refreshed with exit reason 0. Current time zone bias is -420.
+Information,31/10/2021 08.43.49,Microsoft-Windows-Time-Service,35,None,"The time service is now synchronizing the system time with the time source time.windows.com,0x9 (ntp.m|0x9|[::]:123->[64:ff9b::3494:72bc]:123) with reference id 2163861843. Current local stratum number is 4."
+Information,31/10/2021 08.43.49,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2021‎-‎10‎-‎31T01:43:49.965294400Z from ‎2021‎-‎10‎-‎31T01:43:38.306434000Z.
+
+Change Reason: An application or system component changed the time.
+Process: '\Device\HarddiskVolume3\Windows\System32\svchost.exe' (PID 15740).
+
+RTC time: ‎2021‎-‎10‎-‎31T08:43:49.965294400Z
+Current time zone bias: -420
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Information,31/10/2021 08.43.49,Microsoft-Windows-Kernel-General,24,(11),The time zone information was refreshed with exit reason 0. Current time zone bias is -420.
+Information,31/10/2021 08.43.22,Microsoft-Windows-Time-Service,37,None,"The time provider NtpClient is currently receiving valid time data from time.windows.com,0x9 (ntp.m|0x9|[::]:123->[64:ff9b::3494:72bc]:123)."
+Error,31/10/2021 08.43.05,Server,2505,None,The server could not bind to the transport \Device\NetBT_Tcpip_{D8032E0B-8E3F-4A09-BE2E-9E394DDD2F98} because another computer on the network has the same name.  The server could not start.
+Information,31/10/2021 08.42.59,Microsoft-Windows-Power-Troubleshooter,1,None,"The system has returned from a low power state.
+
+Sleep Time: ‎2021‎-‎10‎-‎30T16:17:24.794177600Z
+Wake Time: ‎2021‎-‎10‎-‎31T01:42:54.823451300Z
+
+Wake Source: Unknown"
+Error,31/10/2021 08.42.59,Server,2505,None,The server could not bind to the transport \Device\NetBT_Tcpip_{F33BDF9B-BEA7-4AD3-9A8C-DD89DDFBAECA} because another computer on the network has the same name.  The server could not start.
+Information,31/10/2021 08.42.56,Microsoft-Windows-UserModePowerService,12,(10),Process C:\Windows\System32\DriverStore\FileRepository\smartstandbycomponent.inf_amd64_5c67d36ae277810f\SmartStandby.exe (process ID:5348) reset policy scheme from {381b4222-f694-41f0-9685-ff5bb260df2e} to {381b4222-f694-41f0-9685-ff5bb260df2e}
+Information,31/10/2021 08.42.56,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 62 to 64.
+
+Reason: 3"
+Information,31/10/2021 08.42.56,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+
+Reason: Lid."
+Warning,31/10/2021 08.42.55,Microsoft-Windows-Time-Service,134,None,"NtpClient was unable to set a manual peer to use as a time source because of DNS resolution error on 'time.windows.com,0x9'. NtpClient will try again in 15 minutes and double the reattempt interval thereafter. The error was: No such host is known. (0x80072AF9)"
+Information,31/10/2021 08.42.55,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2021‎-‎10‎-‎31T01:42:55.227236700Z from ‎2021‎-‎10‎-‎31T01:42:55.226372100Z.
+
+Change Reason: An application or system component changed the time.
+Process: '\Device\HarddiskVolume3\Windows\System32\svchost.exe' (PID 15740).
+
+RTC time: ‎2021‎-‎10‎-‎31T08:42:55.227236700Z
+Current time zone bias: -420
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Information,31/10/2021 08.42.55,Microsoft-Windows-Kernel-General,24,(11),The time zone information was refreshed with exit reason 0. Current time zone bias is -420.
+Information,31/10/2021 08.42.55,BTHUSB,18,None,Windows cannot store Bluetooth authentication codes (link keys) on the local adapter. Bluetooth keyboards might not work in the system BIOS during start-up.
+Error,31/10/2021 08.42.54,VBoxNetLwf,12,None,The driver detected an internal driver error on \Device\VBoxNetLwf.
+Information,31/10/2021 08.42.54,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+
+Reason: Sleep, Hibernate, or Shutdown."
+Information,31/10/2021 08.42.54,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 61 to 62.
+
+Reason: 3"
+Information,31/10/2021 08.42.54,Microsoft-Windows-Kernel-Boot,32,(58),The bootmgr spent 0 ms waiting for user input.
+Information,31/10/2021 08.42.54,Microsoft-Windows-Kernel-Boot,18,(57),There are 0x1 boot options on this system.
+Information,31/10/2021 08.42.54,Microsoft-Windows-Kernel-Boot,30,(21),The firmware reported boot metrics.
+Error,31/10/2021 08.42.54,Microsoft-Windows-NDIS,10317,PnP,"Miniport Microsoft Wi-Fi Direct Virtual Adapter #4, {95162730-380d-4edf-ac66-a0dfc4886950}, had event Fatal error: The miniport has failed a power transition to operational power"
+Information,31/10/2021 08.42.54,googledrivefs3525,1,None,Wake from sleep detected.
+Information,31/10/2021 08.42.53,Netwtw06,7021,None,7021 - Connection telemetry fields and analysis usage
+Warning,31/10/2021 08.42.52,Win32k,701,None,Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Warning,31/10/2021 08.42.52,Win32k,701,None,Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Information,31/10/2021 08.42.52,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2021‎-‎10‎-‎31T01:42:52.500000000Z from ‎2021‎-‎10‎-‎30T16:17:41.291691200Z.
+
+Change Reason: System time synchronized with the hardware clock.
+Process: '' (PID 4).
+
+RTC time: ‎2021‎-‎10‎-‎31T08:42:52.500000000Z
+Current time zone bias: -420
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Information,30/10/2021 23.17.41,Microsoft-Windows-Kernel-Power,107,(102),The system has resumed from sleep.
+Information,30/10/2021 23.17.41,Microsoft-Windows-Time-Service,35,None,"The time service is now synchronizing the system time with the time source time.windows.com,0x9 (ntp.m|0x9|0.0.0.0:123->52.148.114.188:123) with reference id 3161625652. Current local stratum number is 4."
+Information,30/10/2021 23.17.35,Microsoft-Windows-Kernel-Power,42,(64),"The system is entering sleep.
+
+Sleep Reason: Hibernate from Sleep - Fixed Timeout"
+Error,30/10/2021 23.17.34,Server,2505,None,The server could not bind to the transport \Device\NetBT_Tcpip_{D8032E0B-8E3F-4A09-BE2E-9E394DDD2F98} because another computer on the network has the same name.  The server could not start.
+Information,30/10/2021 23.17.31,Microsoft-Windows-UserModePowerService,12,(10),Process C:\Windows\System32\DriverStore\FileRepository\smartstandbycomponent.inf_amd64_5c67d36ae277810f\SmartStandby.exe (process ID:5348) reset policy scheme from {381b4222-f694-41f0-9685-ff5bb260df2e} to {381b4222-f694-41f0-9685-ff5bb260df2e}
+Information,30/10/2021 23.17.27,googledrivefs3525,1,None,Wake from sleep detected.
+Information,30/10/2021 23.17.26,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 60 to 61.
+
+Reason: 3"
+Information,30/10/2021 23.17.26,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+
+Reason: Sleep, Hibernate, or Shutdown."
+Information,30/10/2021 23.17.25,googledrivefs3525,1,None,Warning: no matching IRPs found for reply.
+Information,30/10/2021 23.17.25,googledrivefs3525,1,None,Warning: no matching IRPs found for reply.
+Information,30/10/2021 23.17.25,Microsoft-Windows-Time-Service,37,None,"The time provider NtpClient is currently receiving valid time data from time.windows.com,0x9 (ntp.m|0x9|0.0.0.0:123->52.148.114.188:123)."
+Information,30/10/2021 23.17.24,Microsoft-Windows-Kernel-Power,172,(203),"Connectivity state in standby: Connected, Reason: None"
+Error,30/10/2021 23.17.24,VBoxNetLwf,12,None,The driver detected an internal driver error on \Device\VBoxNetLwf.
+Information,30/10/2021 21.52.33,googledrivefs3525,1,None,Wake from sleep detected.
+Information,30/10/2021 21.51.39,googledrivefs3525,1,None,Wake from sleep detected.
+Error,30/10/2021 21.47.42,Server,2505,None,The server could not bind to the transport \Device\NetBT_Tcpip_{D8032E0B-8E3F-4A09-BE2E-9E394DDD2F98} because another computer on the network has the same name.  The server could not start.
+Information,30/10/2021 21.47.33,Microsoft-Windows-Kernel-Power,172,(203),"Connectivity state in standby: Disconnected, Reason: 7"
+Error,30/10/2021 21.47.32,VBoxNetLwf,12,None,The driver detected an internal driver error on \Device\VBoxNetLwf.
+Information,30/10/2021 21.47.25,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 59 to 60.
+
+Reason: 3"
+Warning,30/10/2021 21.47.24,Win32k,700,None,Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Warning,30/10/2021 21.47.24,Win32k,700,None,Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Information,30/10/2021 21.47.24,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+
+Reason: Lid."
+Information,30/10/2021 21.47.24,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 58 to 59.
+
+Reason: 3"
+Information,30/10/2021 21.46.37,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 56 to 58.
+
+Reason: 3"
+Information,30/10/2021 21.46.37,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+
+Reason: Power Button."
+Information,30/10/2021 21.45.47,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+
+Reason: Idle Timeout."
+Information,30/10/2021 21.45.47,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 55 to 56.
+
+Reason: 3"
+Information,30/10/2021 21.40.50,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 53 to 55.
+
+Reason: 3"
+Information,30/10/2021 21.40.50,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+
+Reason: Power Button."
+Information,30/10/2021 21.13.53,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+
+Reason: Idle Timeout."
+Information,30/10/2021 21.13.53,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 52 to 53.
+
+Reason: 3"
+Information,30/10/2021 21.03.37,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 50 to 52.
+
+Reason: 3"
+Information,30/10/2021 21.03.37,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+
+Reason: Input Mouse."
+Information,30/10/2021 20.59.38,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+
+Reason: Idle Timeout."
+Information,30/10/2021 20.59.38,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 49 to 50.
+
+Reason: 3"
+Information,30/10/2021 20.56.50,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information,30/10/2021 20.54.45,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information,30/10/2021 20.52.59,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 47 to 49.
+
+Reason: 3"
+Information,30/10/2021 20.52.59,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+
+Reason: Input Mouse."
+Information,30/10/2021 20.52.50,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+
+Reason: Idle Timeout."
+Information,30/10/2021 20.52.50,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 46 to 47.
+
+Reason: 3"
+Information,30/10/2021 20.52.49,Microsoft-Windows-Kernel-Power,105,(100),Power source change.
+Warning,30/10/2021 20.27.46,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-1948028993-3225539157-3440777148-1849744506-410510235-485761564-2294899468). This security permission can be modified using the Component Services administrative tool."
+Information,30/10/2021 20.25.07,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Users\DTETI FT UGM\AppData\Local\Packages\Microsoft.WindowsNotepad_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Warning,30/10/2021 20.23.59,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-1451493179-2683836608-1986857019-35721519-137045951-1170719439-2271252311). This security permission can be modified using the Component Services administrative tool."
+Warning,30/10/2021 20.23.58,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-1451493179-2683836608-1986857019-35721519-137045951-1170719439-2271252311). This security permission can be modified using the Component Services administrative tool."
+Warning,30/10/2021 20.22.20,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-325075141-312602910-3260930255-266424518-1140312444-3195286659-3266461725). This security permission can be modified using the Component Services administrative tool."
+Information,30/10/2021 19.49.55,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Error,30/10/2021 19.48.03,Server,2505,None,The server could not bind to the transport \Device\NetBT_Tcpip_{95162730-380D-4EDF-AC66-A0DFC4886950} because another computer on the network has the same name.  The server could not start.
+Information,30/10/2021 19.47.56,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 44 to 46.
+
+Reason: 3"
+Information,30/10/2021 19.47.56,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+
+Reason: Power Button."
+Information,30/10/2021 19.47.47,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+
+Reason: Idle Timeout."
+Information,30/10/2021 19.47.47,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 43 to 44.
+
+Reason: 3"
+Error,30/10/2021 19.47.22,Server,2505,None,The server could not bind to the transport \Device\NetBT_Tcpip_{D8032E0B-8E3F-4A09-BE2E-9E394DDD2F98} because another computer on the network has the same name.  The server could not start.
+Information,30/10/2021 19.47.18,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Error,30/10/2021 19.47.17,Server,2505,None,The server could not bind to the transport \Device\NetBT_Tcpip_{F33BDF9B-BEA7-4AD3-9A8C-DD89DDFBAECA} because another computer on the network has the same name.  The server could not start.
+Information,30/10/2021 19.47.14,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 41 to 43.
+
+Reason: 3"
+Information,30/10/2021 19.47.14,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+
+Reason: Lid."
+Information,30/10/2021 19.47.14,Microsoft-Windows-Power-Troubleshooter,1,None,"The system has returned from a low power state.
+
+Sleep Time: ‎2021‎-‎10‎-‎30T09:23:24.590098700Z
+Wake Time: ‎2021‎-‎10‎-‎30T12:47:13.385505200Z
+
+Wake Source: Unknown"
+Information,30/10/2021 19.47.13,Microsoft-Windows-UserModePowerService,12,(10),Process C:\Windows\System32\DriverStore\FileRepository\smartstandbycomponent.inf_amd64_5c67d36ae277810f\SmartStandby.exe (process ID:5348) reset policy scheme from {381b4222-f694-41f0-9685-ff5bb260df2e} to {381b4222-f694-41f0-9685-ff5bb260df2e}
+Information,30/10/2021 19.47.13,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+
+Reason: Sleep, Hibernate, or Shutdown."
+Information,30/10/2021 19.47.13,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 40 to 41.
+
+Reason: 3"
+Information,30/10/2021 19.47.12,BTHUSB,18,None,Windows cannot store Bluetooth authentication codes (link keys) on the local adapter. Bluetooth keyboards might not work in the system BIOS during start-up.
+Error,30/10/2021 19.47.12,VBoxNetLwf,12,None,The driver detected an internal driver error on \Device\VBoxNetLwf.
+Information,30/10/2021 19.47.12,googledrivefs3525,1,None,Wake from sleep detected.
+Information,30/10/2021 19.47.12,Microsoft-Windows-Kernel-Boot,32,(58),The bootmgr spent 0 ms waiting for user input.
+Information,30/10/2021 19.47.12,Microsoft-Windows-Kernel-Boot,18,(57),There are 0x1 boot options on this system.
+Information,30/10/2021 19.47.12,Microsoft-Windows-Kernel-Boot,30,(21),The firmware reported boot metrics.
+Information,30/10/2021 19.47.10,Netwtw06,7021,None,7021 - Connection telemetry fields and analysis usage
+Error,30/10/2021 19.47.10,Microsoft-Windows-NDIS,10317,PnP,"Miniport Microsoft Wi-Fi Direct Virtual Adapter #4, {95162730-380d-4edf-ac66-a0dfc4886950}, had event Fatal error: The miniport has failed a power transition to operational power"
+Information,30/10/2021 19.47.09,Microsoft-Windows-Kernel-Power,105,(100),Power source change.
+Warning,30/10/2021 19.47.08,Win32k,701,None,Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Warning,30/10/2021 19.47.08,Win32k,701,None,Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Information,30/10/2021 19.47.08,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2021‎-‎10‎-‎30T12:47:08.500000000Z from ‎2021‎-‎10‎-‎30T09:23:43.857860400Z.
+
+Change Reason: System time synchronized with the hardware clock.
+Process: '' (PID 4).
+
+RTC time: ‎2021‎-‎10‎-‎30T19:47:08.500000000Z
+Current time zone bias: -420
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Information,30/10/2021 16.23.43,Microsoft-Windows-Kernel-Power,107,(102),The system has resumed from sleep.
+Information,30/10/2021 16.23.38,Microsoft-Windows-Kernel-Power,42,(64),"The system is entering sleep.
+
+Sleep Reason: Hibernate from Sleep - Fixed Timeout"
+Error,30/10/2021 16.23.34,Server,2505,None,The server could not bind to the transport \Device\NetBT_Tcpip_{D8032E0B-8E3F-4A09-BE2E-9E394DDD2F98} because another computer on the network has the same name.  The server could not start.
+Information,30/10/2021 16.23.31,Microsoft-Windows-UserModePowerService,12,(10),Process C:\Windows\System32\DriverStore\FileRepository\smartstandbycomponent.inf_amd64_5c67d36ae277810f\SmartStandby.exe (process ID:5348) reset policy scheme from {381b4222-f694-41f0-9685-ff5bb260df2e} to {381b4222-f694-41f0-9685-ff5bb260df2e}
+Information,30/10/2021 16.23.27,googledrivefs3525,1,None,Wake from sleep detected.
+Information,30/10/2021 16.23.25,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 39 to 40.
+
+Reason: 3"
+Information,30/10/2021 16.23.25,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+
+Reason: Sleep, Hibernate, or Shutdown."
+Information,30/10/2021 16.23.25,googledrivefs3525,1,None,Warning: no matching IRPs found for reply.
+Information,30/10/2021 16.23.24,Microsoft-Windows-Kernel-Power,172,(203),"Connectivity state in standby: Connected, Reason: None"
+Error,30/10/2021 16.23.24,VBoxNetLwf,12,None,The driver detected an internal driver error on \Device\VBoxNetLwf.
+Error,30/10/2021 15.08.31,Server,2505,None,The server could not bind to the transport \Device\NetBT_Tcpip_{D8032E0B-8E3F-4A09-BE2E-9E394DDD2F98} because another computer on the network has the same name.  The server could not start.
+Information,30/10/2021 15.08.23,googledrivefs3525,1,None,Wake from sleep detected.
+Error,30/10/2021 15.08.21,VBoxNetLwf,12,None,The driver detected an internal driver error on \Device\VBoxNetLwf.
+Information,30/10/2021 14.58.35,googledrivefs3525,1,None,Wake from sleep detected.
+Information,30/10/2021 14.53.30,Microsoft-Windows-Kernel-Power,172,(203),"Connectivity state in standby: Disconnected, Reason: 7"
+Information,30/10/2021 14.53.24,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 38 to 39.
+
+Reason: 3"
+Information,30/10/2021 14.53.24,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+
+Reason: Lid."
+Information,30/10/2021 14.53.24,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 36 to 38.
+
+Reason: 3"
+Information,30/10/2021 14.53.24,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+
+Reason: Lid."
+Warning,30/10/2021 14.53.24,Win32k,700,None,Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Warning,30/10/2021 14.53.24,Win32k,700,None,Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Information,30/10/2021 14.53.20,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+
+Reason: Idle Timeout."
+Information,30/10/2021 14.53.20,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 35 to 36.
+
+Reason: 3"
+Information,30/10/2021 14.53.19,Microsoft-Windows-UserModePowerService,12,(10),Process C:\Windows\System32\DriverStore\FileRepository\smartstandbycomponent.inf_amd64_5c67d36ae277810f\SmartStandby.exe (process ID:5348) reset policy scheme from {381b4222-f694-41f0-9685-ff5bb260df2e} to {381b4222-f694-41f0-9685-ff5bb260df2e}
+Information,30/10/2021 14.53.19,Microsoft-Windows-Kernel-Power,105,(100),Power source change.
+Information,30/10/2021 14.45.46,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information,30/10/2021 14.43.40,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information,30/10/2021 14.40.41,Microsoft-Windows-Kernel-Power,521,(220),Active battery count change.
+Information,30/10/2021 14.40.40,Microsoft-Windows-Kernel-Power,521,(220),Active battery count change.
+Information,30/10/2021 14.27.14,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Users\DTETI FT UGM\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\SystemAppData\Helium\UserClasses.dat was cleared updating 2 keys and creating 1 modified pages.
+Information,30/10/2021 14.27.14,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Users\DTETI FT UGM\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\SystemAppData\Helium\User.dat was cleared updating 1 keys and creating 1 modified pages.
+Warning,30/10/2021 13.21.24,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ and APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning,30/10/2021 13.21.20,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ and APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Information,30/10/2021 13.05.51,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information,30/10/2021 13.04.16,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.353.79.0)
+Information,30/10/2021 13.04.07,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.353.79.0)
+Information,30/10/2021 13.04.07,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Error,30/10/2021 13.04.01,Server,2505,None,The server could not bind to the transport \Device\NetBT_Tcpip_{95162730-380D-4EDF-AC66-A0DFC4886950} because another computer on the network has the same name.  The server could not start.
+Error,30/10/2021 13.03.47,Server,2505,None,The server could not bind to the transport \Device\NetBT_Tcpip_{D8032E0B-8E3F-4A09-BE2E-9E394DDD2F98} because another computer on the network has the same name.  The server could not start.
+Information,30/10/2021 13.03.46,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Error,30/10/2021 13.03.40,Server,2505,None,The server could not bind to the transport \Device\NetBT_Tcpip_{F33BDF9B-BEA7-4AD3-9A8C-DD89DDFBAECA} because another computer on the network has the same name.  The server could not start.
+Information,30/10/2021 13.03.39,Microsoft-Windows-Time-Service,37,None,"The time provider NtpClient is currently receiving valid time data from time.windows.com,0x9 (ntp.m|0x9|[::]:123->[64:ff9b::3494:72bc]:123)."
+Information,30/10/2021 13.03.39,Microsoft-Windows-UserModePowerService,12,(10),Process C:\Windows\System32\svchost.exe (process ID:916) reset policy scheme from {381b4222-f694-41f0-9685-ff5bb260df2e} to {381b4222-f694-41f0-9685-ff5bb260df2e}
+Information,30/10/2021 13.03.39,Microsoft-Windows-Power-Troubleshooter,1,None,"The system has returned from a low power state.
+
+Sleep Time: ‎2021‎-‎10‎-‎29T16:29:23.361562900Z
+Wake Time: ‎2021‎-‎10‎-‎30T06:03:37.698807800Z
+
+Wake Source: Unknown"
+Information,30/10/2021 13.03.38,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 33 to 35.
+
+Reason: 3"
+Information,30/10/2021 13.03.38,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+
+Reason: Lid."
+Information,30/10/2021 13.03.37,Microsoft-Windows-UserModePowerService,12,(10),Process C:\Windows\System32\DriverStore\FileRepository\smartstandbycomponent.inf_amd64_5c67d36ae277810f\SmartStandby.exe (process ID:5348) reset policy scheme from {381b4222-f694-41f0-9685-ff5bb260df2e} to {381b4222-f694-41f0-9685-ff5bb260df2e}
+Error,30/10/2021 13.03.37,VBoxNetLwf,12,None,The driver detected an internal driver error on \Device\VBoxNetLwf.
+Information,30/10/2021 13.03.37,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+
+Reason: Sleep, Hibernate, or Shutdown."
+Information,30/10/2021 13.03.37,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 32 to 33.
+
+Reason: 3"
+Information,30/10/2021 13.03.37,Microsoft-Windows-Kernel-Boot,32,(58),The bootmgr spent 0 ms waiting for user input.
+Information,30/10/2021 13.03.37,Microsoft-Windows-Kernel-Boot,18,(57),There are 0x1 boot options on this system.
+Information,30/10/2021 13.03.37,Microsoft-Windows-Kernel-Boot,30,(21),The firmware reported boot metrics.
+Information,30/10/2021 13.03.36,BTHUSB,18,None,Windows cannot store Bluetooth authentication codes (link keys) on the local adapter. Bluetooth keyboards might not work in the system BIOS during start-up.
+Error,30/10/2021 13.03.36,Microsoft-Windows-NDIS,10317,PnP,"Miniport Microsoft Wi-Fi Direct Virtual Adapter #4, {95162730-380d-4edf-ac66-a0dfc4886950}, had event Fatal error: The miniport has failed a power transition to operational power"
+Information,30/10/2021 13.03.35,googledrivefs3525,1,None,Wake from sleep detected.
+Information,30/10/2021 13.03.35,Netwtw06,7021,None,7021 - Connection telemetry fields and analysis usage
+Information,30/10/2021 13.03.34,Microsoft-Windows-Kernel-Power,105,(100),Power source change.
+Information,30/10/2021 13.03.34,EventLog,6013,None,The system uptime is 148720 seconds.
+Warning,30/10/2021 13.03.33,Win32k,701,None,Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Warning,30/10/2021 13.03.33,Win32k,701,None,Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Information,30/10/2021 13.03.33,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2021‎-‎10‎-‎30T06:03:33.500000000Z from ‎2021‎-‎10‎-‎29T16:29:40.479614900Z.
+
+Change Reason: System time synchronized with the hardware clock.
+Process: '' (PID 4).
+
+RTC time: ‎2021‎-‎10‎-‎30T13:03:33.500000000Z
+Current time zone bias: -420
+RTC time is in UTC: false
+System time was based on RTC time: false"
+Information,29/10/2021 23.29.40,Microsoft-Windows-Kernel-Power,107,(102),The system has resumed from sleep.
+Information,29/10/2021 23.29.34,Microsoft-Windows-Kernel-Power,42,(64),"The system is entering sleep.
+
+Sleep Reason: Hibernate from Sleep - Fixed Timeout"
+Error,29/10/2021 23.29.33,Server,2505,None,The server could not bind to the transport \Device\NetBT_Tcpip_{D8032E0B-8E3F-4A09-BE2E-9E394DDD2F98} because another computer on the network has the same name.  The server could not start.
+Information,29/10/2021 23.29.29,Microsoft-Windows-UserModePowerService,12,(10),Process C:\Windows\System32\DriverStore\FileRepository\smartstandbycomponent.inf_amd64_5c67d36ae277810f\SmartStandby.exe (process ID:5348) reset policy scheme from {381b4222-f694-41f0-9685-ff5bb260df2e} to {381b4222-f694-41f0-9685-ff5bb260df2e}
+Information,29/10/2021 23.29.27,googledrivefs3525,1,None,Wake from sleep detected.
+Information,29/10/2021 23.29.24,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 31 to 32.
+
+Reason: 3"
+Information,29/10/2021 23.29.24,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+
+Reason: Sleep, Hibernate, or Shutdown."
+Information,29/10/2021 23.29.23,Microsoft-Windows-Kernel-Power,172,(203),"Connectivity state in standby: Connected, Reason: None"
+Error,29/10/2021 23.29.23,VBoxNetLwf,12,None,The driver detected an internal driver error on \Device\VBoxNetLwf.
+Information,29/10/2021 22.10.20,googledrivefs3525,1,None,Wake from sleep detected.
+Error,29/10/2021 22.00.35,Server,2505,None,The server could not bind to the transport \Device\NetBT_Tcpip_{D8032E0B-8E3F-4A09-BE2E-9E394DDD2F98} because another computer on the network has the same name.  The server could not start.
+Information,29/10/2021 22.00.26,googledrivefs3525,1,None,Wake from sleep detected.
+Error,29/10/2021 22.00.25,VBoxNetLwf,12,None,The driver detected an internal driver error on \Device\VBoxNetLwf.
+Information,29/10/2021 21.55.32,Microsoft-Windows-Kernel-Power,172,(203),"Connectivity state in standby: Disconnected, Reason: 7"
+Information,29/10/2021 21.55.24,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 30 to 31.
+
+Reason: 3"
+Information,29/10/2021 21.55.23,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+
+Reason: AC/DC Display Burst Suppressed."
+Information,29/10/2021 21.55.23,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 28 to 30.
+
+Reason: 3"
+Information,29/10/2021 21.55.23,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+
+Reason: AC/DC Display Burst Suppressed."
+Warning,29/10/2021 21.55.23,Win32k,700,None,Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Warning,29/10/2021 21.55.23,Win32k,700,None,Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Information,29/10/2021 21.55.23,Microsoft-Windows-Kernel-Power,105,(100),Power source change.
+Information,29/10/2021 21.55.21,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+
+Reason: 16777220."
+Information,29/10/2021 21.55.21,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 27 to 28.
+
+Reason: 3"
+Information,29/10/2021 21.55.21,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+
+Reason: 16777220."
+Information,29/10/2021 21.55.21,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 26 to 27.
+
+Reason: 3"
+Information,29/10/2021 21.55.20,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+
+Reason: Lid."
+Information,29/10/2021 21.55.20,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 25 to 26.
+
+Reason: 3"
+Information,29/10/2021 21.55.19,Microsoft-Windows-UserModePowerService,12,(10),Process C:\Windows\System32\DriverStore\FileRepository\smartstandbycomponent.inf_amd64_5c67d36ae277810f\SmartStandby.exe (process ID:5348) reset policy scheme from {381b4222-f694-41f0-9685-ff5bb260df2e} to {381b4222-f694-41f0-9685-ff5bb260df2e}
+Information,29/10/2021 20.56.49,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information,29/10/2021 20.54.45,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information,29/10/2021 20.42.11,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.353.38.0)
+Information,29/10/2021 20.42.03,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.353.38.0)
+Information,29/10/2021 20.42.03,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Warning,29/10/2021 20.36.51,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-4227013671-685324081-103557572-1283402678-2197592378-3346857851-3897139779). This security permission can be modified using the Component Services administrative tool."
+Warning,29/10/2021 20.36.51,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-4227013671-685324081-103557572-1283402678-2197592378-3346857851-3897139779). This security permission can be modified using the Component Services administrative tool."
+Warning,29/10/2021 20.36.22,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-2724468295-2684964756-2069314631-1465139379-900835801-2256257984-678953740). This security permission can be modified using the Component Services administrative tool."
+Warning,29/10/2021 20.36.21,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-2724468295-2684964756-2069314631-1465139379-900835801-2256257984-678953740). This security permission can be modified using the Component Services administrative tool."
+Warning,29/10/2021 20.35.56,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-1995687824-362085866-2514685283-149278760-2209488452-781990272-717142889). This security permission can be modified using the Component Services administrative tool."
+Warning,29/10/2021 20.35.55,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-1995687824-362085866-2514685283-149278760-2209488452-781990272-717142889). This security permission can be modified using the Component Services administrative tool."
+Warning,29/10/2021 20.35.38,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-1835588639-673417695-1656755128-1771728727-2088753148-823368579-886546533). This security permission can be modified using the Component Services administrative tool."
+Warning,29/10/2021 20.35.37,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-1835588639-673417695-1656755128-1771728727-2088753148-823368579-886546533). This security permission can be modified using the Component Services administrative tool."
+Warning,29/10/2021 20.35.03,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-1998942190-4218232614-3967737614-3843149972-2724196851-1949219744-1555843430). This security permission can be modified using the Component Services administrative tool."
+Warning,29/10/2021 20.35.03,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-1998942190-4218232614-3967737614-3843149972-2724196851-1949219744-1555843430). This security permission can be modified using the Component Services administrative tool."
+Warning,29/10/2021 20.34.31,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-3640206025-2733928824-947501437-3025788948-3416963272-1886927562-724387396). This security permission can be modified using the Component Services administrative tool."
+Warning,29/10/2021 20.34.30,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-3640206025-2733928824-947501437-3025788948-3416963272-1886927562-724387396). This security permission can be modified using the Component Services administrative tool."
+Warning,29/10/2021 20.33.49,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-354741997-3116092655-2973557461-3586779533-2733117709-2065735296-445755720). This security permission can be modified using the Component Services administrative tool."
+Warning,29/10/2021 20.33.48,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-354741997-3116092655-2973557461-3586779533-2733117709-2065735296-445755720). This security permission can be modified using the Component Services administrative tool."
+Warning,29/10/2021 20.27.03,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-361424389-546629119-722553333-3045161681-465077491-4183926500-3090398860). This security permission can be modified using the Component Services administrative tool."
+Warning,29/10/2021 20.27.02,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-361424389-546629119-722553333-3045161681-465077491-4183926500-3090398860). This security permission can be modified using the Component Services administrative tool."
+Warning,29/10/2021 20.22.41,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-175351116-3330962696-3491868299-2775034255-1983300976-1186237761-2548472330). This security permission can be modified using the Component Services administrative tool."
+Warning,29/10/2021 20.22.40,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-175351116-3330962696-3491868299-2775034255-1983300976-1186237761-2548472330). This security permission can be modified using the Component Services administrative tool."
+Warning,29/10/2021 20.22.11,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-674570315-701078616-3490544117-1291545350-1924721412-3362516453-1505916387). This security permission can be modified using the Component Services administrative tool."
+Warning,29/10/2021 20.22.10,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-674570315-701078616-3490544117-1291545350-1924721412-3362516453-1505916387). This security permission can be modified using the Component Services administrative tool."
+Warning,29/10/2021 20.21.43,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-2758770454-438906010-1573674977-3032401416-1437435262-1274442822-1594793724). This security permission can be modified using the Component Services administrative tool."
+Warning,29/10/2021 20.21.42,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-2758770454-438906010-1573674977-3032401416-1437435262-1274442822-1594793724). This security permission can be modified using the Component Services administrative tool."
+Warning,29/10/2021 20.21.04,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-1154270109-1098820334-4255751264-1405029242-2510794853-3806746419-1342684944). This security permission can be modified using the Component Services administrative tool."
+Warning,29/10/2021 20.21.03,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-1154270109-1098820334-4255751264-1405029242-2510794853-3806746419-1342684944). This security permission can be modified using the Component Services administrative tool."
+Information,29/10/2021 20.20.20,BTHUSB,18,None,Windows cannot store Bluetooth authentication codes (link keys) on the local adapter. Bluetooth keyboards might not work in the system BIOS during start-up.
+Warning,29/10/2021 20.20.18,BTHUSB,7,None,A hardware error occurred. The event contains the vendor-specific error code.
+Warning,29/10/2021 20.04.12,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-1693801509-3043830407-201155126-800277091-1456583390-1785315382-1480400113). This security permission can be modified using the Component Services administrative tool."
+Warning,29/10/2021 20.04.11,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-1693801509-3043830407-201155126-800277091-1456583390-1785315382-1480400113). This security permission can be modified using the Component Services administrative tool."
+Information,29/10/2021 19.55.20,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Users\DTETI FT UGM\AppData\Local\Packages\Microsoft.ScreenSketch_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information,29/10/2021 18.49.11,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information,29/10/2021 18.47.07,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information,29/10/2021 18.44.44,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information,29/10/2021 18.42.40,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information,29/10/2021 18.41.50,Service Control Manager,7045,None,"A service was installed in the system.
+
+Service Name:  MpKslb51fd68f
+Service File Name:  C:\ProgramData\Microsoft\Windows Defender\Definition Updates\{0AB5773D-20D8-491F-9BE1-34F3674F2BE6}\MpKslDrv.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+Information,29/10/2021 18.35.42,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Error,29/10/2021 18.33.31,Server,2505,None,The server could not bind to the transport \Device\NetBT_Tcpip_{95162730-380D-4EDF-AC66-A0DFC4886950} because another computer on the network has the same name.  The server could not start.
+Information,29/10/2021 18.33.29,Microsoft-Windows-Kernel-Power,105,(100),Power source change.
+Error,29/10/2021 18.33.30,Server,2505,None,The server could not bind to the transport \Device\NetBT_Tcpip_{D8032E0B-8E3F-4A09-BE2E-9E394DDD2F98} because another computer on the network has the same name.  The server could not start.
+Information,29/10/2021 18.33.24,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information,29/10/2021 18.33.22,Microsoft-Windows-UserModePowerService,12,(10),Process C:\Windows\System32\DriverStore\FileRepository\smartstandbycomponent.inf_amd64_5c67d36ae277810f\SmartStandby.exe (process ID:5348) reset policy scheme from {381b4222-f694-41f0-9685-ff5bb260df2e} to {381b4222-f694-41f0-9685-ff5bb260df2e}
+Information,29/10/2021 18.33.22,Microsoft-Windows-UserModePowerService,12,(10),Process C:\Windows\System32\svchost.exe (process ID:916) reset policy scheme from {381b4222-f694-41f0-9685-ff5bb260df2e} to {381b4222-f694-41f0-9685-ff5bb260df2e}
+Warning,29/10/2021 18.33.21,Win32k,701,None,Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Warning,29/10/2021 18.33.21,Win32k,701,None,Power Manager has not requested suppression of all input (INPUT_SUPPRESS_REQUEST=0)
+Information,29/10/2021 18.33.21,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 24 to 25.
+
+Reason: 3"
+Information,29/10/2021 18.33.21,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+
+Reason: Power Button."
+Information,29/10/2021 18.33.20,googledrivefs3525,1,None,Warning: no matching IRPs found for reply.
+Information,29/10/2021 18.33.20,Microsoft-Windows-Kernel-Power,172,(203),"Connectivity state in standby: Connected, Reason: None"
+Error,29/10/2021 18.33.20,VBoxNetLwf,12,None,The driver detected an internal driver error on \Device\VBoxNetLwf.
+Information,29/10/2021 18.33.19,Microsoft-Windows-Time-Service,158,None,The time provider 'VMICTimeProvider' has indicated that the current hardware and operating environment is not supported and has stopped. This behavior is expected for VMICTimeProvider on non-HyperV-guest environments. This may be the expected behavior for the current provider in the current operating environment as well.
+Information,29/10/2021 18.33.19,googledrivefs3525,1,None,Wake from sleep detected.
+Information,29/10/2021 17.01.52,googledrivefs3525,1,None,Wake from sleep detected.
+Information,29/10/2021 15.52.09,googledrivefs3525,1,None,Wake from sleep detected.
+Information,29/10/2021 15.47.14,Microsoft-Windows-Kernel-Power,172,(203),"Connectivity state in standby: Disconnected, Reason: 7"
+Information,29/10/2021 15.47.09,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 23 to 24.
+
+Reason: 3"
+Information,29/10/2021 15.47.08,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+
+Reason: AC/DC Display Burst Suppressed."
+Information,29/10/2021 15.47.08,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 21 to 23.
+
+Reason: 3"
+Information,29/10/2021 15.47.08,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+
+Reason: AC/DC Display Burst Suppressed."
+Warning,29/10/2021 15.47.08,Win32k,700,None,Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Warning,29/10/2021 15.47.08,Win32k,700,None,Power Manager has requested suppression of all input (INPUT_SUPPRESS_REQUEST=1)
+Information,29/10/2021 15.47.08,Microsoft-Windows-Kernel-Power,105,(100),Power source change.
+Error,29/10/2021 15.46.56,Server,2505,None,The server could not bind to the transport \Device\NetBT_Tcpip_{95162730-380D-4EDF-AC66-A0DFC4886950} because another computer on the network has the same name.  The server could not start.
+Information,29/10/2021 15.46.51,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+
+Reason: 16777220."
+Information,29/10/2021 15.46.51,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 20 to 21.
+
+Reason: 3"
+Information,29/10/2021 15.46.51,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+
+Reason: 16777220."
+Information,29/10/2021 15.46.50,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 19 to 20.
+
+Reason: 3"
+Information,29/10/2021 15.46.50,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+
+Reason: Lid."
+Information,29/10/2021 15.46.50,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 18 to 19.
+
+Reason: 3"
+Information,29/10/2021 15.45.19,Microsoft-Windows-Time-Service,158,None,The time provider 'VMICTimeProvider' has indicated that the current hardware and operating environment is not supported and has stopped. This behavior is expected for VMICTimeProvider on non-HyperV-guest environments. This may be the expected behavior for the current provider in the current operating environment as well.
+Information,29/10/2021 15.28.15,Microsoft-Windows-Time-Service,158,None,The time provider 'VMICTimeProvider' has indicated that the current hardware and operating environment is not supported and has stopped. This behavior is expected for VMICTimeProvider on non-HyperV-guest environments. This may be the expected behavior for the current provider in the current operating environment as well.
+Information,29/10/2021 15.11.11,Microsoft-Windows-Time-Service,158,None,The time provider 'VMICTimeProvider' has indicated that the current hardware and operating environment is not supported and has stopped. This behavior is expected for VMICTimeProvider on non-HyperV-guest environments. This may be the expected behavior for the current provider in the current operating environment as well.
+Information,29/10/2021 15.07.00,Microsoft-Windows-Kernel-Power,521,(220),Active battery count change.
+Information,29/10/2021 15.06.59,Microsoft-Windows-Kernel-Power,521,(220),Active battery count change.
+Information,29/10/2021 14.53.51,Microsoft-Windows-Time-Service,37,None,"The time provider NtpClient is currently receiving valid time data from time.windows.com,0x9 (ntp.m|0x9|[::]:123->[64:ff9b::3494:72bc]:123)."
+Information,29/10/2021 14.53.51,Microsoft-Windows-Time-Service,158,None,The time provider 'VMICTimeProvider' has indicated that the current hardware and operating environment is not supported and has stopped. This behavior is expected for VMICTimeProvider on non-HyperV-guest environments. This may be the expected behavior for the current provider in the current operating environment as well.
+Information,29/10/2021 14.33.27,Microsoft-Windows-Kernel-Power,521,(220),Active battery count change.
+Information,29/10/2021 14.33.26,Microsoft-Windows-Kernel-Power,521,(220),Active battery count change.
+Information,29/10/2021 14.01.22,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information,29/10/2021 13.59.16,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information,29/10/2021 13.31.10,Microsoft-Windows-Kernel-Power,521,(220),Active battery count change.
+Information,29/10/2021 13.31.09,Microsoft-Windows-Kernel-Power,521,(220),Active battery count change.
+Information,29/10/2021 13.03.01,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: 9WZDNCRFHVQM-MICROSOFT.WINDOWSCOMMUNICATIONSAPPS
+Information,29/10/2021 13.03.00,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: 9WZDNCRFHVQM-MICROSOFT.WINDOWSCOMMUNICATIONSAPPS
+Information,29/10/2021 13.02.58,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\microsoft.windowscommunicationsapps_16005.14326.20544.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,29/10/2021 13.02.35,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: 9NT52VQ39BVN-Microsoft.LanguageExperiencePacken-GB
+Information,29/10/2021 13.02.34,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installatio
